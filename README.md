@@ -1,4 +1,4 @@
 # New-Demo
 My first project 
 <br>
-Author : vamshi 
+Author : vamshi (author)
